@@ -1,0 +1,17 @@
+.sucesso {
+    background-color: lightgray;
+    border: 1px solid green;
+    color: green;
+    padding: 10px;
+    font-size: 1.1rem;
+    border-radius: 5px;
+}
+
+.erro {
+    background-color: lightgray;
+    border: 1px solid red;
+    color: red;
+    padding: 10px;
+    font-size: 1.1rem;
+    border-radius: 5px;
+}
